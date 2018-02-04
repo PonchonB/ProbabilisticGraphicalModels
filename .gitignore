@@ -1,2 +1,5 @@
-.ipynb_checkpoints
+*/.ipynb_checkpoints
 *.zip
+*/*.zip
+*/Untitled.ipynb
+Course/
